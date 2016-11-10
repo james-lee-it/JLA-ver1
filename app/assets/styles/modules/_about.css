@@ -1,7 +1,7 @@
-.testimonial {
+.about {
   background-color: rgba(255, 255, 255, .8);
   padding: 0 18px 1px 18px;
-  margin-bottom: 98px;
+  margin-bottom: 40px;
 
   @mixin atLarge {
     margin-bottom: 0;
@@ -17,17 +17,19 @@
     overflow: hidden;
     width: 160px;
     height: 160px;
-    margin: 0 auto -80px auto;
+    margin-left: auto;
+    margin-right: auto;
     position: relative;
-    top: -80px;
-    border: 6px solid rgba(255, 255, 255, .8);
+    top: -20px;
+    border: 0px solid rgba(255, 255, 255, .8);
+
   }
 
   &__title {
     color: $mainBrown;
     text-align: center;
-    font-size: 1.5rem;
-    font-weight: 500;
+    font-size: 2.8rem;
+    font-weight: 400;
     margin: 0;
   }
 
@@ -35,7 +37,7 @@
     color: $mainLBrown;
     text-align: center;
     font-weight: 400;
-    font-size: 0.9375rem;
+    font-size: 1.5rem;
     margin: .25rem 0 1rem 0;
   }
 }

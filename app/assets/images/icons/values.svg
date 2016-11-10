@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="56" height="56" viewBox="0, 0, 56, 56">
+  <g id="Layer_1">
+    <g>
+      <path d="M17.406,12.186 L39.631,12.122" fill-opacity="0" stroke="#E79159" stroke-width="2"/>
+      <path d="M5.697,24.218 L51.34,23.962" fill-opacity="0" stroke="#E79159" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M38.392,11.41 L50.474,23.962" fill-opacity="0" stroke="#E79159" stroke-width="2" stroke-linejoin="bevel"/>
+      <path d="M18.287,11.727 L5.66,24.556" fill-opacity="0" stroke="#E79159" stroke-width="2" stroke-linejoin="bevel"/>
+    </g>
+    <path d="M6.648,24.125 L28.799,43.99" fill-opacity="0" stroke="#E79159" stroke-width="2" stroke-linejoin="bevel"/>
+    <path d="M50.867,24.066 L28.545,45.108" fill-opacity="0" stroke="#E79159" stroke-width="1" stroke-linejoin="bevel"/>
+    <path d="M31.035,12.592 L38.706,23.82" fill-opacity="0" stroke="#E79159" stroke-width="1" stroke-linejoin="bevel"/>
+    <path d="M25.344,12.44 L18.638,23.515" fill-opacity="0" stroke="#E79159" stroke-width="2" stroke-linejoin="bevel"/>
+    <path d="M37.538,24.633 L30.222,43.025" fill-opacity="0" stroke="#E79159" stroke-width="0.7" stroke-linejoin="bevel"/>
+    <path d="M27.58,24.023 L29.303,43.886" fill-opacity="0" stroke="#E79159" stroke-width="1" stroke-linejoin="bevel"/>
+    <path d="M15.338,24.015 L29.149,42.858" fill-opacity="0" stroke="#E79159" stroke-width="1.5" stroke-linejoin="bevel"/>
+  </g>
+</svg>
