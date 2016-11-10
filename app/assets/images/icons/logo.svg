@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="180" height="80" viewBox="0, 0, 180, 80">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="180" height="70" viewBox="0, 0, 180, 70">
   <g id="Layer_1">
-    <text transform="matrix(1, 0, 0, 1, 89.021, 45.43)">
-      <tspan x="-78.399" y="-13.439" font-family="Baskerville-SemiBold" font-size="33" fill="#FFFFFF">James Lee</tspan>
-      <tspan x="78.399" y="-13.439" font-family="Baskerville-SemiBold" font-size="24" fill="#FFFFFF"> </tspan>
-      <tspan x="-66.152" y="16.561" font-family="Baskerville-SemiBold" font-size="24" fill="#FFFFFF">&amp; Company</tspan>
+    <text transform="matrix(1, 0, 0, 1, 90.135, 35.133)">
+      <tspan x="-78.399" y="-4.44" font-family="Baskerville-SemiBold" font-size="33" fill="#FFFFFF">James Lee</tspan>
+      <tspan x="78.399" y="-4.44" font-family="Baskerville-SemiBold" font-size="24" fill="#FFFFFF"> </tspan>
+      <tspan x="-66.152" y="25.56" font-family="Baskerville-SemiBold" font-size="24" fill="#FFFFFF">&amp; Company</tspan>
     </text>
   </g>
 </svg>
