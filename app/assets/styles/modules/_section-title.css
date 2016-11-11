@@ -36,4 +36,30 @@
     }
   }
 
+  &__ph {
+    font-size: 2.40rem;
+    font-weight: 300;
+    text-align: center;
+
+    @mixin atSmall {
+      font-size: 3.75rem;
+    }
+    strong {
+      font-weight: 500;
+    }
+  }
+
+  &__mc {
+    font-size: 2.40rem;
+    font-weight: 300;
+    text-align: center;
+
+    @mixin atSmall {
+      font-size: 3.75rem;
+    }
+    strong {
+      font-weight: 500;
+    }
+  }
+
 }

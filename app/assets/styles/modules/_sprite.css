@@ -2,7 +2,7 @@
 Instead edit gulp/templates/sprite */
 
     .icon {
-      background-image: url('../../assets/images/sprites/sprite-f25a8d0f.svg');
+      background-image: url('../../assets/images/sprites/sprite-c37f3ef3.svg');
     }
 
     .no-svg .icon {
@@ -12,19 +12,19 @@ Instead edit gulp/templates/sprite */
   .icon--facebook {
     width: 21.23px;
     height: 42.01px;
-    background-position: 53.90883270475392% 39.328052137760544%;
+    background-position: 49.3597802300135% 51.47437311567027%;
   }
 
   .icon--healthcare {
     width: 56px;
     height: 56px;
-    background-position: 64.44444444444444% 71.95121951219512%;
+    background-position: 64.44444444444444% 96.72131147540983%;
   }
 
   .icon--instagram {
     width: 42.01px;
     height: 42.01px;
-    background-position: 70.62735192535698% 39.328052137760544%;
+    background-position: 32.99139130883035% 51.47437311567027%;
   }
 
   .icon--logo {
@@ -36,47 +36,41 @@ Instead edit gulp/templates/sprite */
   .icon--mail {
     width: 64px;
     height: 48px;
-    background-position: 0 40.69767441860465%;
+    background-position: 0 53.84615384615385%;
   }
 
   .icon--management-consulting {
     width: 56px;
     height: 56px;
-    background-position: 33.333333333333336% 71.95121951219512%;
+    background-position: 33.333333333333336% 96.72131147540983%;
   }
 
   .icon--mission {
     width: 60px;
     height: 60px;
-    background-position: 0 73.75%;
-  }
-
-  .icon--pharmaceuticals {
-    width: 56px;
-    height: 56px;
-    background-position: 100% 0;
+    background-position: 0 100%;
   }
 
   .icon--purpose {
     width: 56px;
     height: 56px;
-    background-position: 100% 34.146341463414636%;
+    background-position: 100% 0;
   }
 
   .icon--twitter {
     width: 51.78px;
     height: 42.06px;
-    background-position: 34.741070459233526% 39.33910306845004%;
+    background-position: 97.70926066659429% 82.389289392379%;
   }
 
   .icon--values {
     width: 56px;
     height: 56px;
-    background-position: 100% 68.29268292682927%;
+    background-position: 100% 45.90163934426229%;
   }
 
   .icon--youtube {
     width: 34.75px;
     height: 42px;
-    background-position: 0 100%;
+    background-position: 63.2248447204969% 51.470588235294116%;
   }
