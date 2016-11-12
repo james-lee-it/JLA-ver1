@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="180" height="70" viewBox="0, 0, 180, 70">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="270" height="100" viewBox="0, 0, 270, 100">
   <g id="Layer_1">
-    <text transform="matrix(1, 0, 0, 1, 90.135, 35.133)">
-      <tspan x="-78.399" y="-4.44" font-family="Baskerville-SemiBold" font-size="33" fill="#FFFFFF">James Lee</tspan>
-      <tspan x="78.399" y="-4.44" font-family="Baskerville-SemiBold" font-size="24" fill="#FFFFFF"> </tspan>
-      <tspan x="-66.152" y="25.56" font-family="Baskerville-SemiBold" font-size="24" fill="#FFFFFF">&amp; Company</tspan>
+    <text transform="matrix(1, 0, 0, 1, 135, 50)">
+      <tspan x="-118.229" y="-10" font-family="Georgia-Bold" font-size="44" fill="#FFFFFF">James Lee </tspan>
+      <tspan x="-17.585" y="40" font-family="Georgia-Bold" font-size="44" fill="#FFFFFF">&amp;</tspan>
     </text>
   </g>
 </svg>

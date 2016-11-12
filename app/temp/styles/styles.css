@@ -509,9 +509,10 @@ a {
 
 .large-hero__title {
   font-weight: 400;
-  color: #FFF;
+  color: #594141;
   margin: 50px 0 0 0;
   font-size: 2rem;
+  font-family: Verdana;
 }
 
 @media (min-width: 530px) {
@@ -523,7 +524,7 @@ a {
 
 .large-hero__subtitle {
   font-weight: 400;
-  color: #FFF;
+  color: #594141;
   font-size: 1rem;
   max-width: 12.5rem;
   margin-left: auto;
