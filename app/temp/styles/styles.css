@@ -1382,6 +1382,7 @@ Instead edit gulp/templates/sprite */
     left: auto;
     -webkit-transform: translateX(0);
             transform: translateX(0);
+    padding: 17px 30px;
   }
 
   .site-header--dark .site-header__logo {
