@@ -9,11 +9,13 @@
 @import "modules/_headline";
 @import "modules/_row";
 @import "modules/_generic-content-container";
-@import "modules/_generic-paragraph";
-@import "modules/_section-title";
+@import "modules/_paragraph";
+@import "modules/_title";
+@import "modules/_title2nd";
+@import "modules/_title3rd";
 @import "modules/_purpose-item";
 @import "modules/_m-c-a";
-@import "modules/_about";
+@import "modules/_greeting-photo";
 @import "modules/_p-h";
 @import "modules/_sprite";
 @import "modules/_site-footer";
@@ -22,3 +24,4 @@
 @import "modules/_reveal-item";
 @import "modules/_modal";
 @import "modules/_social-icons";
+@import "modules/_coming-soon";

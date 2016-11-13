@@ -23,10 +23,10 @@
 
   &__title {
     font-weight: 400;
-    color: $mainBrown;
+    color: #FFF;
     margin: 50px 0 0 0;
     font-size: 2rem;
-    font-family: Verdana;
+    font-family: arial;
 
     @mixin atSmall {
       font-size: 4.8rem;
@@ -37,12 +37,14 @@
 
   &__subtitle {
     font-weight: 400;
-    color: $mainBrown;
+    color: #FFF;
     font-size: 1rem;
     max-width: 12.5rem;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    font-family: Arial;
+    font-style: italic;
 
     @mixin atSmall {
       font-size: 2rem;

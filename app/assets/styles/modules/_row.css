@@ -43,6 +43,7 @@
     &__medium-2 {
       float:left;
       width: 20%;
+      padding-top: 30px;
     }
 
     &__medium-3 {
@@ -73,9 +74,9 @@
       width: 63%;
     }
 
-    &__medium-12 {
+    &__medium-10 {
       float: left;
-      width: 80%;
+      width: 77%;
     }
 
   }

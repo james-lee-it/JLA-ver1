@@ -1,0 +1,15 @@
+.coming-soon {
+  margin: auto;
+  font-size: 2rem;
+  padding: 2rem;
+  text-align: center;
+  min-height:450px;
+
+  @mixin atLarge {
+  font-size: 5rem;
+  padding: 5em;
+  text-align: center;
+  min-height: none;
+  }
+
+}

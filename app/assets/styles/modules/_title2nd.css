@@ -1,0 +1,40 @@
+.title2nd {
+  color: $mainBrown;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+
+  &--italic {
+    font-style: italic;
+  }
+
+  &--no-top-margin {
+    margin: auto;
+  }
+
+  &__greeting {
+    text-align: center;
+
+    @mixin atMedium {
+      text-align: left;
+    }
+  }
+
+  &__values {
+    color: #FFF;
+    text-align: left;
+  }
+
+  &__the-name {
+    color: #FFF;
+    margin-top: auto;
+  }
+
+  @mixin atSmall {
+  font-size: 2rem;
+  }
+}

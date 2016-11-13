@@ -1,0 +1,19 @@
+.title3rd {
+  color: $mainLBrown;
+  text-align: center;
+  font-weight: 400;
+  font-size: 1rem;
+  margin: auto;
+
+  @mixin atSmall {
+    font-size: 1.2rem;
+  }
+
+  &__values {
+    color: #FFF;
+    text-align: left;
+    font-weight: 500;
+  }
+
+
+}

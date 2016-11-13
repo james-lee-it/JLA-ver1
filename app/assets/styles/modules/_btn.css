@@ -1,12 +1,24 @@
 .btn {
-  background-color: $mainBrown;
+  background-color: $mainOrange;
   color: #FFF;
   text-decoration: none;
   padding: .75rem 1.2rem;
   display: inline-block;
 
+  &--LBrown {
+    background-color: #FFF;
+    color: $mainLBrown;
+    font-weight: 500;
+    font-size: 1rem;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
   &--orange {
-    background-color: $mainLBrown;
+    background-color: rgba(255, 128, 0, 0.6);
+    color: #FFF;
+    font-weight: 500;
+    font-size: 1rem;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
 
   &--large {
