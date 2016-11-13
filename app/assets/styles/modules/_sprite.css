@@ -2,7 +2,7 @@
 Instead edit gulp/templates/sprite */
 
     .icon {
-      background-image: url('../../assets/images/sprites/sprite-43e518c7.svg');
+      background-image: url('../../assets/images/sprites/sprite-3422a141.svg');
     }
 
     .no-svg .icon {
@@ -10,33 +10,33 @@ Instead edit gulp/templates/sprite */
     }
 
   .icon--company-logo {
-    width: 175.2px;
-    height: 75px;
+    width: 132px;
+    height: 72px;
     background-position: 0 0;
   }
 
   .icon--healthcare {
     width: 56px;
     height: 56px;
-    background-position: 97.33333333333333% 48.78048780487805%;
+    background-position: 97.05882352941177% 50%;
   }
 
   .icon--linkedin {
     width: 32.9px;
     height: 32.9px;
-    background-position: 55.1452486459872% 84.18891170431212%;
+    background-position: 92.23758642363293% 83.85744234800839%;
   }
 
   .icon--mail {
     width: 64px;
     height: 48px;
-    background-position: 0 57.25190839694657%;
+    background-position: 0 56.25%;
   }
 
   .icon--mission {
     width: 60px;
     height: 60px;
-    background-position: 99.54545454545455% 0;
+    background-position: 100% 0;
   }
 
   .icon--purpose {
@@ -48,17 +48,17 @@ Instead edit gulp/templates/sprite */
   .icon--twitter {
     width: 51.78px;
     height: 42.06px;
-    background-position: 34.741070459233526% 54.76851175697386%;
+    background-position: 45.642561688774784% 53.75541287143497%;
   }
 
   .icon--values {
     width: 56px;
     height: 56px;
-    background-position: 31.11111111111111% 100%;
+    background-position: 41.1764705882353% 100%;
   }
 
   .icon--youtube {
     width: 34.75px;
     height: 42px;
-    background-position: 57.530434782608694% 54.74452554744526%;
+    background-position: 71.2241653418124% 89.55223880597015%;
   }
