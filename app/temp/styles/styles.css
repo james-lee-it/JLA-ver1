@@ -1373,7 +1373,7 @@ Instead edit gulp/templates/sprite */
   -webkit-transform-origin: 50% 0;
           transform-origin: 50% 0;
   background-color: #594141;
-  padding: 25px 36px;
+  padding: 7px 17px;
 }
 
 @media (min-width: 800px) {
