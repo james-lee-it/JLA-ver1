@@ -27,6 +27,19 @@
     }
   }
 
+  &--padding-at-nano-only {
+    padding-left: 10px;
+    padding-right: 10px;
+
+    @mixin atSmall {
+      padding-top: 4%;
+      padding-bottom: 4%;
+      padding-left: 18px;
+      padding-right: 18px;
+      min-height: 400px;
+    }
+  }
+
   &--no-padding-until-large {
     padding-left: 0;
     padding-right: 0;

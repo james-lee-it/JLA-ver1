@@ -648,6 +648,22 @@ a {
   }
 }
 
+.wrapper--padding-at-nano-only {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@media (min-width: 530px) {
+
+  .wrapper--padding-at-nano-only {
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 18px;
+    padding-right: 18px;
+    min-height: 400px;
+  }
+}
+
 .wrapper--no-padding-until-large {
   padding-left: 0;
   padding-right: 0;
