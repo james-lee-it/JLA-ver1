@@ -14,13 +14,16 @@
     max-width: 470px;
   }
 
-  &--no-padding-until-medium {
+  &--no-padding-until-small {
     padding-left: 0;
     padding-right: 0;
 
-    @mixin atMedium {
+    @mixin atSmall {
+      padding-top: 4%;
+      padding-bottom: 4%;
       padding-left: 18px;
       padding-right: 18px;
+      min-height: 400px;
     }
   }
 
@@ -29,6 +32,8 @@
     padding-right: 0;
 
     @mixin atLarge {
+      padding-top: 10px;
+      padding-bottom: 10px;
       padding-left: 18px;
       padding-right: 18px;
     }

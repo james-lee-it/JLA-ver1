@@ -585,6 +585,8 @@ a {
 
 .btn--LBrown {
   background-color: #FFF;
+  background-image: -webkit-linear-gradient(rgba(255,255,255,0.3), rgba(203,155,103,0.2) );
+  background-image: linear-gradient(rgba(255,255,255,0.3), rgba(203,155,103,0.2) );
   color: #8d6a6a;
   font-weight: 500;
   font-size: 1rem;
@@ -593,6 +595,8 @@ a {
 
 .btn--orange {
   background-color: rgba(255, 128, 0, 0.6);
+  background-image: -webkit-linear-gradient(rgba(255,128,0,1),rgba(255,255,255,0.4));
+  background-image: linear-gradient(rgba(255,128,0,1),rgba(255,255,255,0.4));
   color: #FFF;
   font-weight: 500;
   font-size: 1rem;
@@ -628,16 +632,19 @@ a {
   max-width: 470px;
 }
 
-.wrapper--no-padding-until-medium {
+.wrapper--no-padding-until-small {
   padding-left: 0;
   padding-right: 0;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 530px) {
 
-  .wrapper--no-padding-until-medium {
+  .wrapper--no-padding-until-small {
+    padding-top: 4%;
+    padding-bottom: 4%;
     padding-left: 18px;
     padding-right: 18px;
+    min-height: 400px;
   }
 }
 
@@ -649,6 +656,8 @@ a {
 @media (min-width: 1010px) {
 
   .wrapper--no-padding-until-large {
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 18px;
     padding-right: 18px;
   }
