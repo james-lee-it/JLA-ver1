@@ -19,8 +19,8 @@
     padding-right: 0;
 
     @mixin atSmall {
-      padding-top: 4%;
-      padding-bottom: 4%;
+      padding-top: 80px;
+      padding-bottom: 80px;
       padding-left: 18px;
       padding-right: 18px;
       min-height: 400px;

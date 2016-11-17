@@ -1,0 +1,32 @@
+.value-item {
+  position: relative;
+
+  @mixin atSmall {
+    padding-left: 94px;
+    padding-bottom: 1rem;
+  }
+
+  &__title {
+
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #FFF;
+    padding: 1rem 0 0 0;
+    margin: auto;
+
+    @mixin atSmall {
+      font-size: 1.8rem;
+      padding: 1rem 0;
+    }
+  }
+
+  p {
+    @mixin atSmall {
+      font-size: 1.1rem;
+      font-weight: 300;
+      padding: auto;
+      margin: auto;
+    }
+  }
+
+}

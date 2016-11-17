@@ -13,9 +13,12 @@
 @import "modules/_title";
 @import "modules/_title2nd";
 @import "modules/_title3rd";
-@import "modules/_purpose-item";
+@import "modules/_offer";
+@import "modules/_value-item";
+@import "modules/_the-name";
+@import "modules/_skill-set";
 @import "modules/_m-c-a";
-@import "modules/_greeting-photo";
+@import "modules/_greeting";
 @import "modules/_p-h";
 @import "modules/_sprite";
 @import "modules/_site-footer";

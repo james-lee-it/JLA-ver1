@@ -1,11 +1,19 @@
-.paragraph {
+.the-name {
   display: block;
   font-size: 1rem;
   font-weight: 400;
   padding: 0 1em 0 1em;
   margin: auto;
 
+  &__content {
+    text-align: center;
+    color: #FFF;
+  }
+
+
   @mixin atSmall {
     font-size:1.5rem;
     }
+
+
 }

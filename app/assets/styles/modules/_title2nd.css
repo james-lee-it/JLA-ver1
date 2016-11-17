@@ -24,11 +24,6 @@
     }
   }
 
-  &__values {
-    color: #FFF;
-    text-align: left;
-  }
-
   &__the-name {
     color: #FFF;
     margin-top: auto;
