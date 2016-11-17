@@ -1397,7 +1397,7 @@ Instead edit gulp/templates/sprite */
   transition: transform .3s ease-out, -webkit-transform .3s ease-out;
   -webkit-transform-origin: 50% 0;
           transform-origin: 50% 0;
-  background-color: #594141;
+  background-color: #8d6a6a;
   padding: 7px 17px;
 }
 
@@ -1589,7 +1589,7 @@ Instead edit gulp/templates/sprite */
   display: block;
   padding: 5px 8px;
   font-size: .8rem;
-  background-color: rgba(89,65,65, .5);
+  background-color: rgba(141,106,106, .7);
 }
 
 @media (min-width: 800px) {
