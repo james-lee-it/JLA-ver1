@@ -19,8 +19,8 @@
     padding-right: 0;
 
     @mixin atSmall {
-      padding-top: 80px;
-      padding-bottom: 80px;
+      padding-top: 40px;
+      padding-bottom: 40px;
       padding-left: 18px;
       padding-right: 18px;
       min-height: 400px;
@@ -45,8 +45,8 @@
     padding-right: 0;
 
     @mixin atLarge {
-      padding-top: 10px;
-      padding-bottom: 10px;
+      padding-top: 15px;
+      padding-bottom: 15px;
       padding-left: 18px;
       padding-right: 18px;
     }

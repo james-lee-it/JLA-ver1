@@ -69,8 +69,8 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var mobileMenu = new _MobileMenu2.default();
-	new _RevealOnScroll2.default((0, _jquery2.default)(".greeting__reveal, .value-item, .the-name, .skill-set"), "85%");
-	new _RevealOnScroll2.default((0, _jquery2.default)(".offer"), "60%");
+	new _RevealOnScroll2.default((0, _jquery2.default)("skill-set"), "85%");
+	new _RevealOnScroll2.default((0, _jquery2.default)(""), "60%");
 	var stickyHeader = new _StickyHeader2.default();
 	var modal = new _Modal2.default();
 

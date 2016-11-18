@@ -640,8 +640,8 @@ a {
 @media (min-width: 530px) {
 
   .wrapper--no-padding-until-small {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     padding-left: 18px;
     padding-right: 18px;
     min-height: 400px;
@@ -672,8 +672,8 @@ a {
 @media (min-width: 1010px) {
 
   .wrapper--no-padding-until-large {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     padding-left: 18px;
     padding-right: 18px;
   }
@@ -1255,7 +1255,7 @@ a {
 @media (min-width: 530px) {
 
   .greeting {
-    font-size: 1rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -1716,11 +1716,10 @@ Instead edit gulp/templates/sprite */
   font-size: 2rem;
   padding: 2rem;
   text-align: center;
-  min-height:450px;
 
 }
 
-@media (min-width: 1010px) {
+@media (min-width: 530px) {
 
   .coming-soon {
     font-size: 5rem;
